@@ -1,4 +1,4 @@
-# Teste Tecnico FGV Conhecimento - Sistema de Vendas
+# Sistema de Vendas
 
 Aplicação fullstack desenvolvida como parte do processo seletivo para a vaga de **Analista Desenvolvedor de Sistemas Fullstack Pleno** da FGV Conhecimento.
 
